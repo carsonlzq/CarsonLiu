@@ -4,5 +4,5 @@ This is the final project for my Introduction to Python and Data Science class. 
 
 ### Dataset: 
 
-The latest (September,2019) Airbnb listing and review data for Los Angeles from [insiderairbnb.com](https://insideairbnb.com/)
+The latest (September,2019) Airbnb listing and review data for Los Angeles from [insiderairbnb.com](http://insideairbnb.com/get-the-data.html)
 
